@@ -1,0 +1,6 @@
+﻿'lab6 1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'lab6 1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\User\source\repos\lab6 1\lab6 1\bin\Debug\lab6 1.exe'. Symbols loaded.
+'lab6 1.exe' (CLR v4.0.30319: lab6 1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'lab6 1.exe' (CLR v4.0.30319: lab6 1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.FormatException' in mscorlib.dll
+The program '[11208] lab6 1.exe' has exited with code -1073741510 (0xc000013a).
